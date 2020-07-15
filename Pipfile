@@ -9,6 +9,7 @@ verify_ssl = true
 aiohttp = "*"
 aiohttp-jinja2 = "*"
 uvloop = "*"
+aioreloader = "*"
 
 [requires]
 python_version = "3.8"
