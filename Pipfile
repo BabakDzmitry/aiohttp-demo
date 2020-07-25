@@ -10,6 +10,7 @@ aiohttp = "*"
 aiohttp-jinja2 = "*"
 uvloop = "*"
 aioreloader = "*"
+pyyaml = "*"
 
 [requires]
 python_version = "3.8"
